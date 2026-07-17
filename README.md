@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=260&section=header&text=Suryansh%20Pathak&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Software%20Engineer&descAlignY=56&descSize=20" width="100%" />
+<img src="./banner.png" width="100%" alt="Suryansh Pathak — Full Stack Developer & AI Engineer" />
 
 <br/>
 
@@ -53,7 +53,7 @@ const suryansh = {
 - Work with top-tier tech companies
 - Create products used by millions
 
-<br/>
+<hr/>
 
 ## Tech Stack
 
@@ -110,7 +110,7 @@ const suryansh = {
 
 </div>
 
-<br/>
+<hr/>
 
 ## GitHub Analytics
 
@@ -121,7 +121,7 @@ const suryansh = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshhh1&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=suryanshhh1&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -141,7 +141,7 @@ const suryansh = {
 <img src="https://raw.githubusercontent.com/suryanshhh1/suryanshhh1/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<br/>
+<hr/>
 
 ## Featured Projects
 
@@ -214,7 +214,7 @@ Assorted Python projects ranging from scripting and automation to data-focused m
 
 </div>
 
-<br/>
+<hr/>
 
 ## Now Playing
 
@@ -222,7 +222,7 @@ Assorted Python projects ranging from scripting and automation to data-focused m
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </div>
 
-<br/>
+<hr/>
 
 ## Connect With Me
 
@@ -237,7 +237,7 @@ Assorted Python projects ranging from scripting and automation to data-focused m
 
 </div>
 
-<br/>
+<hr/>
 
 ## Support
 
