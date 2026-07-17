@@ -18,7 +18,7 @@
 <br/>
 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="280" src="./profile.png" />
 I'm Suryansh Pathak, a first-year B.Tech Computer Science student building my way toward becoming a world-class software engineer. I care about clean architecture, thoughtful UI, and shipping products that actually help people learn and build faster.
 
 Right now I'm deep in CodeVerse, an AI-powered developer learning platform that combines interactive roadmaps, AI assistance, notes, quizzes, DSA tracking, and progress analytics — built end-to-end as my flagship project.
